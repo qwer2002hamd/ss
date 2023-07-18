@@ -1,8 +1,8 @@
 {
-  "name": "sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
-  "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions by TeamSukun.",
-  "logo": "https://te.legra.ph/file/33036596b83bd46e2d09e.jpg",
-  "keywords": [
+  "name": "ℍ𝔸𝕄𝔻 𝕄𝕌𝕊𝕀ℂ",
+    "description": "•••♡♡♡اللهم صلِ على محمد وال محمد♡♡♡•••",
+    "logo": "https://telegra.ph/file/9de3eaa42476cb5e0ac16.jpg",
+    "keywords": [
     "telegram",
     "bot",
     "python",
@@ -15,22 +15,27 @@
         },  
         "MUST_JOIN": {
             "description": "Username of a group or channel for which you want to set force sub.(without @)",
+            "value": "ah07v", 
             "required": true      
         }, 
         "MONGO_URL": {
             "description": "mongo db url here",
+            "value": "mongodb+srv://lucifer:ASShaw96@lucifer.vuows.mongodb.net/lucifer?retryWrites=true&w=majority", 
             "required": true
         },
         "API_ID": {
             "description": "telegram api id here",
+            "value": "27015406", 
             "required": true
         },
         "OWNER_ID": {
             "description": "Telegram id of the person who will known as owner of the bot.",
+           "value": "1748768168", 
             "required": true
         }, 
         "API_HASH": {
             "description": "telegram api hash here",
+           "value": "4346a15e8eed59a4906886b8f40d2d71", 
             "required": true
         }
     },
