@@ -20,12 +20,12 @@ async def must_join_channel(bot: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply_photo(
-                    photo="https://te.legra.ph/file/697c712418f57096d785d.jpg", caption=f"» ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ [ᴛᴇᴀᴍ sᴜᴋᴜɴ]({link}) ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ [ᴛᴇᴀᴍ sᴜᴋᴜɴ]({link}) ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !",
+                    photo="https://telegra.ph/file/07c09120677dbf071d2c0.jpg", caption=f"عذࢪا عمࢪي انت غير مشتࢪك بقناة الـبوت عليك الاشࢪاك اولا 🥀",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("</> ᴛᴇᴀᴍ sᴜᴋᴜɴ", url=link),
-                                InlineKeyboardButton("</> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/sukunsupports"),
+                                InlineKeyboardButton("</> ‹ قـناة الـبوت ›", url=link),
+                                InlineKeyboardButton("</> ‹ مـطور الـبوت ›", url="https://t.me/ah_2_v"),
                             ]
                         ]
                     )
