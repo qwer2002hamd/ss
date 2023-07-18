@@ -2,7 +2,7 @@
 Generate String Session Using this bot. Modified by @TeamSukun
 
 <p align="center">
-  <img src="https://te.legra.ph/file/913f7918f04966ebffc11.jpg" alt="StringGen">
+  <img src="https://telegra.ph/file/19ba9feb9a312b0ce78aa.jpg" alt="StringGen">
 </p>
 
 ### 🤤 ғᴇᴀᴛᴜʀᴇs
