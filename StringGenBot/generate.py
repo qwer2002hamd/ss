@@ -47,7 +47,7 @@ buttons_ques = [
 
 gen_button = [
     [
-        InlineKeyboardButton(text="‹ استخراج ›", callback_data="generate")
+        InlineKeyboardButton(text="‹ بدء ›", callback_data="generate")
     ]
 ]
 
